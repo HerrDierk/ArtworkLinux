@@ -1,4 +1,4 @@
-# Linuxwallpapers
+# Linux wallpapers
 
 --Artwork Linux--
 
